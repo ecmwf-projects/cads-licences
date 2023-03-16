@@ -3,5 +3,6 @@
   "revision": 1,
   "title": "CMEMS licence",
   "download_filename": "CMEMS-licence.pdf",
-  "scope": "dataset"
+  "scope": "dataset",
+  "md_filename": "CMEMS-licencev1.md"
 }

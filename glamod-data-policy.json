@@ -3,5 +3,6 @@
   "revision": 1,
   "title": "Global land and marine observations data policy",
   "download_filename": "global-land-marine-observations-data-policy_v1.pdf",
-  "scope": "dataset"
+  "scope": "dataset",
+  "md_filename": "glamod-data-policyv1.md"
 }

@@ -3,5 +3,6 @@
   "revision": 1,
   "title": "E-OBS product licence",
   "download_filename": "licence-to-use-E-OBS-products.pdf",
-  "scope": "dataset"
+  "scope": "dataset",
+  "md_filename": "licence-to-use-E-OBS-productsv1.md"
 }

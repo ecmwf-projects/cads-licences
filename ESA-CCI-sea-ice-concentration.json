@@ -3,5 +3,6 @@
   "revision": 1,
   "title": "ESA-CCI sea ice concentration product licence",
   "download_filename": "ESA-CCI-sea-ice-concentration.pdf",
-  "scope": "dataset"
+  "scope": "dataset",
+  "md_filename": "ESA-CCI-sea-ice-concentrationv1.md"
 }

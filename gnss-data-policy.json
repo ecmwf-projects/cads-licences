@@ -4,5 +4,6 @@
   "title": "GNSS data policy",
   "download_filename": "gnss-data-policy.pdf",
   "scope": "dataset",
+  "portal": "cads",
   "md_filename": "gnss-data-policyv1.md"
 }

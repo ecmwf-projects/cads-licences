@@ -3,6 +3,7 @@
   "revision": 1,
   "title": "Terms of use of the Copernicus Atmosphere Data Store",
   "download_filename": "20200121_Terms_of_Use_of_the_Copernicus_Atmosphere_Data_Store_V1.0.pdf",
-  "scope": "dataset",
+  "portal": "cams",
+  "scope": "portal",
   "md_filename": "terms-of-use-adsv1.md"
 }

@@ -1,11 +1,10 @@
 {
 
-    "id": "earth-radiation-budget-nasa-ceres-42-licence",
-
-    "revision": 1,
-
-    "title": "NASA-CERES-EBAF licence",
-
-    "downloadableFilename": "earth-radiation-budget-nasa-ceres-42-licence.pdf"
+  "licence_uid": "earth-radiation-budget-nasa-ceres-42-licence",
+  "revision": 1,
+  "title": "NASA-CERES-EBAF licence",
+  "download_filename": "earth-radiation-budget-nasa-ceres-42-licence.pdf",
+  "scope": "dataset",
+  "md_filename": "earth-radiation-budget-nasa-ceres-42-licencev1.md"
 
 }

@@ -12,7 +12,7 @@ realtime type of forecast with a delay of 3 weeks after the
 initial time of the forecasts. The reforecasts can be accessed without
 any restrictions.
 
-**[Terms of Use]**
+**Terms of Use**
 
 -   ECMWF retains all Intellectual Property Rights and copyright over
     its data.

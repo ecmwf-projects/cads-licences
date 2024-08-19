@@ -1,11 +1,7 @@
 {
-
 	"id": "s2s-licence",
-
 	"revision": 1,
-
 	"title": "Licence",
-
-	"downloadableFilename": "s2s-licence.pdf"
-
+	"md_filename": "s2s-licencev1.md",
+	"download_filename": "s2s-licence.pdf"
 }

@@ -1,19 +1,16 @@
-::: WordSection1
-# [Use of data accessed via this service]{lang="EN-US" style="font-family:\"Open Sans\",sans-serif;color:#333333;font-weight:normal"} {#use-of-data-accessed-via-this-service style="margin-top:16.5pt;margin-right:0cm;margin-bottom:8.25pt;margin-left:
-21.55pt;text-indent:0cm;mso-list:none;background:white"}
 
-[\
-\
+
+
 The datasets available via this service are provided freely
 for [Research and Education
 purposes](http://www.ecmwf.int/about/basic/governance/rules_of_distribution/index.html).
-Before retrieving [data]{.GramE} please read the conditions below and
-acknowledge that you accept them.]{lang="EN-US"}
+Before retrieving  please read the conditions below and
+acknowledge that you accept them.
 
-[Registration will provide you with access to the S2S
-[realtime]{.SpellE} type of forecast with a delay of 3 weeks after the
+Registration will provide you with access to the S2S
+realtime type of forecast with a delay of 3 weeks after the
 initial time of the forecasts. The reforecasts can be accessed without
-any restrictions.]{lang="EN-US"}
+any restrictions.
 
 **[Terms of Use]{lang="EN-US"}**
 

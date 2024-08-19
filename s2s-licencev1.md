@@ -56,8 +56,7 @@ any restrictions.
     the report of a problem, but ECMWF will not be liable for, any
     unavailability, delay or interruption in access.
 
-**Conditions of access for the ECMWF contribution to
-S2S:**
+**Conditions of access for the ECMWF contribution to S2S**
 
 This data product is published under a Creative Commons Attribution
 Non-Commercial 4.0 International (CC BY NC 4.0). To view a copy of this
@@ -117,7 +116,7 @@ The following additional conditions apply: 
     conditions.
 
 The following wording shall be attached to the use of this ECMWF data
-product, in addition to acknowledging S2S: 
+product, in addition to acknowledging S2S:
 
 -   Copyright statement: Copyright \"© \year\ European Centre for
     Medium-Range Weather Forecasts (ECMWF)\".
@@ -152,28 +151,22 @@ S2S:
 
 
 
- 
 
-**Conditions of access for the non-ECMWF contributions to the S2S
-dataset: **
+**Conditions of access for the non-ECMWF contributions to the S2S dataset:**
 
-
-
- 
-
- Words in the singular shall include the plural and vice versa and
+Words in the singular shall include the plural and vice versa and
 words used below shall mean:
 
--   **Products:**The 
+-   **Products:** The 
     items of the Sub-seasonal To Seasonal (S2S) dataset.
--   **ECMWF:**The 
+-   **ECMWF:** The 
     European Centre For Medium-Range Weather Forecasts (ECMWF) whose
     principal place of business is at Shinfield Park,
     Reading, RG2 9AX, United Kingdom.
 -   **Direct/Batch Access**: Access to the ECMWF
     systems by means of an interactive client software which allows the
     Licensee to retrieve Products.
--   **Licensee:**The 
+-   **Licensee:** The 
     person or the organisation he/she represents, whose
     details are contained in this registration form,
     authorised by the Licensor to use the
@@ -271,4 +264,4 @@ words used below shall mean:
 -   The Licensor reserves the right, at its sole discretion, to change,
     modify, add, remove or otherwise alter this agreement at any time
     without notice.
-:::
+

@@ -2,6 +2,7 @@
 	"licence_uid": "s2s-licence",
 	"revision": 1,
 	"title": "Licence",
+	"scope": "dataset",
 	"md_filename": "s2s-licencev1.md",
 	"download_filename": "s2s-licence.pdf"
 }

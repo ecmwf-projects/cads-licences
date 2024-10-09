@@ -15,7 +15,7 @@ The ADS or any of its Content may be unavailable from time to time for scheduled
 
 **Article (4)** **Licenses**
 
-Content accessible through the ADS may only be used under the terms of [the Copernicus license](https://ads.atmosphere.copernicus.eu/api/v2/terms/static/licence-to-use-copernicus-products.pdf), as updated from time to time by ECMWF.
+Content accessible through the ADS may only be used under the terms of the Copernicus license, as updated from time to time by ECMWF.
 
 **Article (5)** **No Endorsement**
 

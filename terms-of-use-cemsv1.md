@@ -1,4 +1,4 @@
-# CEMS Terms and Conditions
+## CEMS Terms and Conditions
 
 *Last modified: 07/06/2023*
 
@@ -9,7 +9,7 @@ The access and use of Copernicus Service Information is regulated under [Regulat
 By using data of CEMS early warning and monitoring systems the user agrees to be bound to all terms and conditions provided herein including, in particular, the limitations on use, transferability, warranty and liability. If you are agreeing to these terms on behalf of a company or other legal entity, you represent that you have the legal authority to bind that company or legal entity to these terms. The terms provided herein are complemented by the terms of the Commission [Legal Notice](https://commission.europa.eu/legal-notice_en) and [Privacy Statement](https://commission.europa.eu/privacy-policy-websites-managed-european-commission_en), unless otherwise expressly stipulated herein.
 
 
-# Access and use:
+## Access and use:
 Subject to their compliance with the terms and conditions set forth herein, users are granted free access to the data of CEMS EFAS & GloFAS for the following purposes and within the limits allowed under applicable law: 
 
 * (a) reproduction; 
@@ -32,21 +32,21 @@ Where the data of the CEMS early warning and monitoring systems has been adapted
 
 'Contains modified Copernicus Emergency Management Service information [Year]' 
 
-# Disclaimer and liabilities:
+## Disclaimer and liabilities:
 Data from the CEMS early warning and monitoring systems is provided for information purposes only. This means that the data does not constitute in any way an early warning for which only national/regional institutions are authorized within their region of responsibility. 
 
 The information contained in the CEMS early warning and monitoring systems are provided "as is" without warranty of any kind, either express or implied, including, but not limited to, any implied warranty against infringement of merchantability, integration, satisfactory quality and fitness for a particular purpose. In particular, nothing in these terms and conditions should be interpreted as a guarantee that the information contained will be free from errors or omissions, and that such errors or omissions can be rectified. In addition, changes to the data might occur frequently and without prior notice. 
 
 By using CEMS early warning and monitoring systems information and data the user acknowledges that these conditions are applicable to him/her and that - to the full extent allowed by law - the user renounces to any claims for damages against the European Union and the providers of the data and information thereto. The scope of this waiver encompasses any dispute, including contracts and torts claims that might be filed in court, in arbitration or in any other form of dispute settlement. 
 
-# Intellectual Property Rights
+## Intellectual Property Rights
 The user expressly recognizes and acknowledges that the use of the data from CEMS early warning and monitoring systems shall not confer any intellectual property rights or other proprietary right to the user. No provision herein shall be deemed to affect the ownership and interest of the European Union in said data and the intellectual property thereto which shall remain unaltered. Any independent intellectual property right generated as a result of modifying or adapting the data from the CEMS early warning and monitoring systems shall be owned by the respective creator(s).
 
-# Access to third party information: 
+## Access to third party information: 
 These terms and conditions only cover data and information from the CEMS early warning and monitoring systems. Access to information from third parties to which the user is directed through this portal may be subject to different license terms. 
 
-# Appropriate conduct: 
+## Appropriate conduct: 
 While using the data from the CEMS early warning and monitoring systems you agree that you are solely responsible for complying with these terms and conditions and with any other obligation that may be applicable under law. 
 
-# Data privacy: 
+## Data privacy: 
 The users' rights on their personal data are protected as outlined in the [CEMS data protection record DRP-EC-00246](https://european-flood.emergency.copernicus.eu/sites/default/files/documents/20230508_Privacy_Statement_Copernicus_rev_acceptedv2.pdf)

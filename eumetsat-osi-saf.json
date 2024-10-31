@@ -1,8 +1,8 @@
 {
   "licence_uid": "eumetsat-osi-saf",
-  "revision": 2,
+  "revision": 1,
   "title": "EUMETSAT OSI SAF products licence",
   "download_filename": "eumetsat-osi-saf.pdf",
   "scope": "dataset",
-  "md_filename": "eumetsat-osi-safv2.md"
+  "md_filename": "eumetsat-osi-safv1.md"
 }

@@ -4,5 +4,7 @@ The use of these products is granted to every interested user, free of charge. I
 
 **Acknowledgement**
 
-When exploiting EUMETSAT/CM SAF data you are kindly requested to acknowledge this contribution accordingly and make reference to the CM SAF, e.g. by stating “The work performed was done (i.a.) by using data from EUMETSAT’s Satellite Application Facility on Climate Monitoring (CM SAF)”. It is highly recommended to clearly identify the product version used.
+When exploiting EUMETSAT/CM SAF data you are kindly requested to acknowledge this contribution accordingly and make reference to the CM SAF, e.g. by stating “The work performed was done (i.a.) by using data from EUMETSAT’s Satellite Application Facility on Climate Monitoring (CM SAF)”. It is highly recommended to clearly identify the product version used by citing the corresponding DOI reference.
+
+Please also include the required dataset and literature citations.
 

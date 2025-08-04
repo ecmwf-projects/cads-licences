@@ -5,7 +5,7 @@ Distribution of data from the Goddard Earth Sciences Data and Information Servic
 **Acknowledgement**: 
 
 The data set source should be properly cited when the data are used. A formal reference
-of the form: <authors>, <yyyy>: <dataset name>. NASA/GSFC, Greenbelt, MD, USA, NASA Goddard Earth Sciences Data and Information Services Center (GES DISC). Accessed <enter user data access date> at <DOI>.
+of the form: &lt;authors&gt;, &lt;yyyy&gt;: &lt;dataset name&gt;. NASA/GSFC, Greenbelt, MD, USA, NASA Goddard Earth Sciences Data and Information Services Center (GES DISC). Accessed &lt;enter user data access date&gt; at &lt;DOI&gt;.
 
 Any questions on these policies or regarding data obtained from NASA GES DISC should
 be directed to gsfc-dl-help-disc@mail.nasa.gov.

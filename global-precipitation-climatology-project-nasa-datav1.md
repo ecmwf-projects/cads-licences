@@ -1,6 +1,6 @@
 **GPCP product licence - NASA GES DISC data**
 
-Distribution of data from the Goddard Earth Sciences Data and Information Services Center (GES DISC) is funded by NASA's Science Mission Directorate (SMD). Consistent with NASA Earth Science Data and Information Policy, data from the GES DISC archive are available free to the user community.
+Distribution of data from the Goddard Earth Sciences Data and Information Services Center (GES DISC) is funded by NASA's Science Mission Directorate (SMD). Consistent with NASA [Earth Science Data and Information Policy](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/data-and-information-policy), data from the GES DISC archive are available free to the user community.
 
 **Acknowledgement**: 
 

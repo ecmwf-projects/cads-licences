@@ -2,8 +2,7 @@
   "licence_uid": "cc-by",
   "revision": 1,
   "title": "CC-BY licence",
-  "download_filename": "https://spdx.org/licenses/CC-BY-4.0",
+  "download_filename": "cc-by.pdf",
   "scope": "dataset",
-  "md_filename": "cc-byv1.md",
-  "spdx_identifier": "CC-BY-4.0"
+  "md_filename": "cc-byv1.md"
 }

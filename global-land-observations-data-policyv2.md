@@ -97,7 +97,7 @@ All data accessed from the Service will have the relevant acknowledgements and c
 
 &quot;Under the CC-BY-SA Licence, users must acknowledge Met Éireann as the source of the data by inserting this attribution statement in their product or application: Contains Met Éireann Data licensed&quot;
 
-Data acknowledgements and citations requirements are the responsibility of the user. Users agree to use acknowledgments and citations in any application that uses the data provided. The list of citations is found in the documentation tab.
+Data acknowledgements and citations requirements are the responsibility of the user. Users agree to use acknowledgments and citations in any application that uses the data provided. The list of citations is found in the Product User Guide, available from the documentation tab.
 
 There is no additional formal requirement to cite or acknowledge the Service although relevant papers and documentation are available through the CDS documentation tab and are citeable should the user wish to do so.
 

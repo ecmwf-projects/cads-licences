@@ -1,4 +1,4 @@
-**C3S 311a Lot 2 Global Land and Marine Observations Database Service Land Data Policy**
+**C3S2 311bis Global Land and Marine Observations Database Service Land Data Policy**
 
 **Version History**
 

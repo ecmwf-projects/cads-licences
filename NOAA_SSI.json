@@ -1,8 +1,8 @@
 {
-  "licence_uid": "noaa_ssi-licence",
+  "licence_uid": "noaa-ssi-licence",
   "revision": 1,
   "title": "NOAA SSI licence",
-  "download_filename": "",
+  "download_filename": "NOAA_SSI_licence.pdf",
   "scope": "dataset",
-  "md_filename": "NOAA_SSIv1.md",
+  "md_filename": "noaa_ssiv1.md",
 }

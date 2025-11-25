@@ -1,4 +1,4 @@
-# NOAA Solar Spectral Irradiance products licence
+**NOAA Solar Spectral Irradiance products licence**
 
 **Fair Use of NOAA's CDR Data Sets, Algorithms and Documentation**
 

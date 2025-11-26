@@ -1,10 +1,9 @@
 {
   "licence_uid": "terms-of-use-ecds",
-  "revision": 11,
+  "revision": 12,
   "title": "Terms of use of the ECMWF Data Store",
-  "download_filename": "20180313_Terms_of_Use_of_the_Copernicus_Climate_Data_Store_V1.1.pdf",
+  "download_filename": "20251112_Terms_of_Use_of_the_ECMWF_Data_Store_V1.pdf",
   "scope": "portal",
   "portal": "ecds",
-  "md_filename": "terms-of-use-cdsv11.md"
+  "md_filename": "terms-of-use-ecdsv1.md"
 }
-

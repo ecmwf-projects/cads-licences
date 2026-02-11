@@ -59,8 +59,3 @@ The following wording shall be attached to the use of this ECMWF data product, i
 4. Any person extracting data from this server will accept responsibility for informing all data users of these conditions.
 5. Data must not be supplied as a whole or in part to any third party outside your organisation.
 6. Articles, papers, or written scientific works of any form, based in whole or in part on TIGGE data, will contain an acknowledgement of TIGGE.
-
-You need to log in first in order to accept this licence and terms of use.
-
-© ECMWF Accessibility | Privacy | Terms of use | Contact us
-

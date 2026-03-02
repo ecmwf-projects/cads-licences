@@ -1,8 +1,8 @@
 {
 	"licence_uid": "tigge-licence",
-	"revision": 1,
-	"title": "TIGGE-licence",
+	"revision": 2,
+	"title": "TIGGE licence",
 	"scope": "dataset",
-	"md_filename": "tigge-licencev1.md",
+	"md_filename": "tigge-licencev2.md",
 	"download_filename": "tigge-licence.pdf"
 }

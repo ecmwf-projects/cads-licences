@@ -1,8 +1,8 @@
 {
   "licence_uid": "fire-cci_for_satellite-burned-area",
-  "revision": 1,
+  "revision": 2,
   "title": "Fire CCI licence",
-  "download_filename": "fire-cci_for_satellite-burned-area.pdf",
+  "download_filename": "fire-cci_for_satellite-burned-areav2.pdf",
   "scope": "dataset",
-  "md_filename": "fire-cci_for_satellite-burned-areav1.md"
+  "md_filename": "fire-cci_for_satellite-burned-areav2.md"
 }

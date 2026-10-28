@@ -52,11 +52,15 @@ of the data.
 Science, Engineering, and Public Policy, National Academy of Sciences, National Academy of
 Engineering, and Institute of Medicine, 82 pages, ISBN-10: 0-309-11970-7. Available for download at:
 http://www.nap.edu/catalog.php?record_id=12192.
+
 [2] Ruth E. Duerr, Robert R. Downs, Curt Tilmes, Bruce Barkstrom, W. Christopher Lenhardt, Joseph
 Glassy, Luis E. Bermudez and Peter Slaughter. On the utility of identification schemes for digital earth
 science data: an assessment and recommendations, Earth Science Informatics, Vol. 4, Num. 3, 139-160,
 2011, doi:10.1007/s12145-011-0083-6.
+
 [3] https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
+
 [4] https://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-
 machine-readable-new-default-government-
+
 [5] https://www.ncei.noaa.gov/products/climate-data-records

@@ -2,7 +2,7 @@
   "licence_uid": "earth-radiation-budget-noaa-hirs-licence",
   "revision": 1,
   "title": "NOAA/NCEI HIRS OLR licence",
-  "download_filename": "earth-radiation-budget-noaa-hirs-licence.pdf",
+  "download_filename": "earth-radiation-budget-noaa-hirs-licence-v2.pdf",
   "scope": "dataset",
-  "md_filename": "earth-radiation-budget-noaa-hirs-licencev1.md"
+  "md_filename": "earth-radiation-budget-noaa-hirs-licencev2.md"
 }

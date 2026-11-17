@@ -25,9 +25,6 @@ for NOAA's CDR Program.
 
 Literature citation example for daily data: Schreck, C. J., H.-T. Lee, and K. R. Knapp, 2018: HIRS Outgoing Longwave Radiation—Daily Climate Data Record: Application toward Identifying Tropical
 Subseasonal Variability. Remote Sensing, 10, 1325, doi:10.3390/rs10091325.
-Data Citation Example: Hai-Tien Lee, University of Maryland (2025): NOAA Climate Data
-Record (CDR) of Outgoing Longwave Radiation – Daily. [indicate subset used]. NOAA National
-Centers for Environmental Information. https://doi.org/10.25921/9pt5-by77
 
 Literature citation example for monthly data: Lee, Hai-Tien, A. Gruber, R. G. Ellingson and I. Laszlo, 2007: Development of the HIRS Outgoing Longwave Radiation climate data set. J. Atmos. Ocean. Tech., 24, 2029-2047.
 
